@@ -1,0 +1,14 @@
+<Context docBase="D:\images" path="/images" reloadable="true"/>
+
+
+ <mirror>
+        <id>alimaven</id>
+        <mirrorOf>central</mirrorOf>
+        <name>aliyun maven</name>
+        <url>http://maven.aliyun.com/nexus/content/repositories/central/</url>
+    </mirror>
+
+    开发环境配置
+    https://blog.csdn.net/qq_28631165/article/details/109205037
+    项目配置
+    https://blog.csdn.net/qq_28631165/article/details/109206262
